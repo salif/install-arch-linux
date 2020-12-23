@@ -1,1 +1,1 @@
-# install-arch-linux
+See [install.sh](./install.sh)
